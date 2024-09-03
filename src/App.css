@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.App-header { 
+  background-color: #282c34; 
+  padding: 20px; 
+  color: white; 
+  text-align: center; 
+ } 
+ h2 { 
+  color: #61dafb; 
+ } 
+ 
